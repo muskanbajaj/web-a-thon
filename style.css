@@ -1,0 +1,46 @@
+body{
+  background-color: #f0ece3;
+    font-family: 'Merriweather', serif;
+   color: #596e79;
+}
+hr {
+  border-style: none;
+border-top-style: dotted;
+border-width:  5px;
+border-color: grey;
+  width:5%;
+}
+h1{
+  color: #eb6383;
+  font-family: 'Merriweather-bold', serif;
+  font-size: 2.5rem;
+}
+h3{
+  color: #eb6383;
+  font-family: 'Merriweather', serif;
+font-size: 1.5rem;
+}
+
+.bottom-container{
+  background-color: #dfd3c3;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: #c7b198;
+  text-align: center;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: #596e79;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.footer-link{
+  padding: 10px ;
+  color: #c7b198;
+  text-decoration: none;
+  font-weight: bold;
+}
